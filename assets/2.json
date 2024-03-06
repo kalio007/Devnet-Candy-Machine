@@ -1,0 +1,46 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Pilot Jacket"
+        },
+        {
+            "trait_type": "Corpo",
+            "value": "Midnight Mergers"
+        },
+        {
+            "trait_type": "Face",
+            "value": "Classic"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Kitaro's Halo"
+        },
+        {
+            "trait_type": "Item",
+            "value": "Smolting"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Brown"
+        }
+    ],
+    "image": "2.png",
+    "description": "Dobutsu is the first collection of the new NFT bullrun! Get in the discord and discover the perks of holding one of our curated characters and be ready to fight for the future of NeoNance!",
+    "name": "Pulsarians #3",
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "2.png"
+            }
+        ],
+        "category": "image"
+    },
+    "seller_fee_basis_points": 500,
+    "symbol": "DMC"
+}

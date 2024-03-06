@@ -1,0 +1,42 @@
+{
+  "program": {
+    "candyMachine": "9vTZ44pTEiakUSQUcbESPATqE98wkvTUoLDuiAttgDcM",
+    "candyGuard": "7LL2tKTcdwXEPkpuHKQM5C6TQSMc5DY1sRkFp3hu3Li5",
+    "candyMachineCreator": "EL1ZZ7eTRJaqqGVsfTED76jCnQ3NLGyUqZBNpeed3Fvc",
+    "collectionMint": "83188EVhotXCn4M9eqeuQUasCDxXAi6kzJSWs23QcLxt"
+  },
+  "items": {
+    "-1": {
+      "name": "Pulsarians",
+      "image_hash": "37ff590d7d794b87633dfcf174d9d5e38c36e182c4a2903067e72e0cb14a64b7",
+      "image_link": "https://arweave.net/LN3hWiDGM1kznUUkvCQ9RDKUG0O1PtUhuXeZxGe6b0M?ext=png",
+      "metadata_hash": "7d69dd409b95869b4089db38f8890c3373851e53ee4c6ccbf4d7a9d733e7a194",
+      "metadata_link": "https://arweave.net/hCYkW5SRH7W4bqh8AxBRmEgrLIs_UZML-s7eKtRikH0",
+      "onChain": true
+    },
+    "0": {
+      "name": "Pulsarians #1",
+      "image_hash": "49ffc5144378b156132169669d276b06a1c7cf5d64ad21c59e113c8a5bf19276",
+      "image_link": "https://arweave.net/TbVXupVPMihSYRyuy5urQT6E382rghqwsGZZIkYz4Xg?ext=png",
+      "metadata_hash": "f76293a05358ccbc6f472afa0a407d853acc0ae11d4b8af6f99be50a38d98c3e",
+      "metadata_link": "https://arweave.net/l2jsTjeQhtxN7rt9RBXZ9kmQdsYZm4Sq7ZaQkceVX8s",
+      "onChain": true
+    },
+    "1": {
+      "name": "Pulsarians #2",
+      "image_hash": "152c2d21687bcceeed9ce7952fa9427022d5a26746b3fe1cf7c6f47461bd974d",
+      "image_link": "https://arweave.net/KN7xgrNdRfo-CABNUy_fdvqw8bnk6dEc-gjfoandcUY?ext=png",
+      "metadata_hash": "663aaaa412f02ddc1aa898fe46849ed9af5b40041dfb339f514bbc436c8ef918",
+      "metadata_link": "https://arweave.net/ZKWiIM9vS6wt7m_JVsRXf_0K55wzn3vF74brtlnW5Kk",
+      "onChain": true
+    },
+    "2": {
+      "name": "Pulsarians #3",
+      "image_hash": "8383cc3f65f364ba4324cca757309b8a9bd0bc7907a96a63b9ec6d4434bfa6a0",
+      "image_link": "https://arweave.net/T__xFT2Xrn8N3OGPT1WyXCC6E0E4VTgBmlyQE1mE8MY?ext=png",
+      "metadata_hash": "855941552c2580f80440de6698752a5cc1a6ad55268497b2b86fab4095d1dc94",
+      "metadata_link": "https://arweave.net/cy1H9TysH0pNDWHWKjauHZOp4zjwfwklikXtZNyaxEA",
+      "onChain": true
+    }
+  }
+}

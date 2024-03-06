@@ -1,0 +1,42 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue Gray"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Polo Teal"
+        },
+        {
+            "trait_type": "Corpo",
+            "value": "Lamb Leverage"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Mythic Helmet"
+        },
+        {
+            "trait_type": "Item",
+            "value": "Unisocks"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Black"
+        }
+    ],
+    "image": "0.png",
+    "description": "Dobutsu is the first collection of the new NFT bullrun! Get in the discord and discover the perks of holding one of our curated characters and be ready to fight for the future of NeoNance!",
+    "name": "Pulsarians #1",
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "0.png"
+            }
+        ],
+        "category": "image"
+    },
+    "seller_fee_basis_points": 500,
+    "symbol": "DMC"
+}

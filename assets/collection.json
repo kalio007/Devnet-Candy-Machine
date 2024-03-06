@@ -1,0 +1,15 @@
+{
+  "name": "Pulsarians",
+  "symbol": "DMC",
+  "description": "Pulsarians is the first collection of the new NFT bullrun! Get in the discord and discover the perks of holding one of our curated characters and be ready to fight for the future of NeoNance!",
+  "image": "collection.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
